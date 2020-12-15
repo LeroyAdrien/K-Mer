@@ -1,0 +1,15 @@
+687328a86946d7a090306231a60380d8  ./GCF_000509895.1_UMCW7_assembly_report.txt
+2219b71c14eb10dc26763ef0afe34967  ./GCF_000509895.1_UMCW7_assembly_stats.txt
+be2238acf6364d255b4de151b11b4e67  ./GCF_000509895.1_UMCW7_cds_from_genomic.fna.gz
+a62ae44f44f12323051f4725bb5143bc  ./GCF_000509895.1_UMCW7_feature_count.txt.gz
+2769ef3cd03203d814cd1c826b8533d2  ./GCF_000509895.1_UMCW7_feature_table.txt.gz
+0e7b7570d00a3099e14a5eee15ddc5dd  ./GCF_000509895.1_UMCW7_genomic.fna.gz
+c319b3e5d07a73b7edc1db1bf310473e  ./GCF_000509895.1_UMCW7_genomic.gbff.gz
+ccc84e261f5b5158ffe8d10475ae90bb  ./GCF_000509895.1_UMCW7_genomic.gff.gz
+807d19fc01c65e83b8f548129652175b  ./GCF_000509895.1_UMCW7_genomic.gtf.gz
+fe259f624a850a4ef9160ae4dcedb6c0  ./GCF_000509895.1_UMCW7_protein.faa.gz
+66a9063806bd3f972a98216a56e9dfd5  ./GCF_000509895.1_UMCW7_protein.gpff.gz
+eea8924aa049bf5aab221167a4449eab  ./GCF_000509895.1_UMCW7_rna_from_genomic.fna.gz
+a88e1bc23cbd11af8f9ad39bae426251  ./GCF_000509895.1_UMCW7_translated_cds.faa.gz
+f041969badd61cd3166377c307cb6366  ./GCF_000509895.1_UMCW7_wgsmaster.gbff.gz
+6182af1920a6bfd6edcb9f4927fe2263  ./annotation_hashes.txt
