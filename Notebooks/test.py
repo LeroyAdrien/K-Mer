@@ -1,3 +1,0 @@
-import kython
-
-print("plop")
